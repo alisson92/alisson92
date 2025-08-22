@@ -2,7 +2,7 @@
 
 <br>
 
-![Banner de Infraestrutura](https://images.unsplash.com/photo-1593350193494-b2ae95681ebd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)
+![Banner de Infraestrutura](https://devops.xiujiadian.com/logo.png)
 <br>
 
 ## 🚀 Sobre Mim
@@ -12,7 +12,7 @@ Sou um Analista de Infraestrutura Jr. apaixonado por automação, cloud computin
 Estou sempre em busca de aprender novas ferramentas e otimizar processos, transformando tarefas manuais em fluxos de trabalho automatizados e eficientes.
 
 - 👨‍💻 Atualmente trabalhando com foco em automação de infraestrutura.
-- 🌱 Estudando e aprofundando meus conhecimentos em **Kubernetes** e soluções de **CI/CD**.
+- 🌱 Estudando e aprofundando meus conhecimentos em **Terraform** e soluções de **CI/CD**.
 - 📫 Como me encontrar: **[alissoncorrealima@hotmail.com]**
 - 📄 Meu currículo pode ser acessado pelo meu **[LinkedIn](https://www.linkedin.com/in/alisson-correa-lima-8404ab233/)**.
 
@@ -24,12 +24,11 @@ Minha caixa de ferramentas está sempre crescendo! Estas são algumas das tecnol
 
 | Categoria | Tecnologias |
 |---|---|
-| **Cloud** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> |
+| **Cloud** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"> |
 | **Infraestrutura como Código (IaC)** | <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"> |
 | **Contêineres & Orquestração** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> |
-| **Linguagens de Script** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"> |
-| **CI/CD** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> |
-| **Monitoramento** | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"> |
+| **CI/CD** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-D24939?style=for-the-badge&logo=bitbucket&logoColor=white"> |
+| **Monitoramento** | <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"> |
 
 <br>
 
