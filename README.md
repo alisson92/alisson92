@@ -16,7 +16,7 @@ Sou um profissional focado em automação e cloud computing, atualmente cursando
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
