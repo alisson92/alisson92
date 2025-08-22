@@ -7,7 +7,7 @@ Sou um profissional focado em automação e cloud computing, atualmente cursando
 - 📫 Como me encontrar: **alissoncorrealima@hotmail.com**
 
 <p align="left">
-  <a href="https://linkedin.com/in/alisson-correa-lins-94b43b230/" target="blank">
+  <a href="https://www.linkedin.com/in/alisson-correa-lima-8404ab233/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alisson-correa-lima" />
   </a>
 </p>
